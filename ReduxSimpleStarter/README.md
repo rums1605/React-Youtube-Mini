@@ -1,25 +1,9 @@
-# ReduxSimpleStarter
+YOUTUBE-MINI
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
-
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+Made a single page web application making use of React JS. The web app  Fetches data from the Youtube API and displays a list of videos when the user    Searches for a particular topic. When the user clicks on a particular video, the Video gets embedded in the app component and users can play the video. It Also allows the users to see the Video description and Video title when they  Click on a video. 
+                                                                     
+       
+                                                                    
+                                                                  
+                                                                  
+                                           
